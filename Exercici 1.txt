@@ -1,0 +1,31 @@
+Exercici 1
+Respon les següents preguntes:
+a) Quina és la diferència entre una classe i un objecte?
+b) Què són els atributs d’una classe? I els mètodes?
+c) Quins modificadors d’accés podem posar als atributs/mètodes d’una classe? Podries explicarlos?
+d) De quin tipus poden ser els atributs d’una classe?
+e) Perquè serveix l’herència de classes?
+
+
+a)
+La clase seria la raiz principal, el tema donde se van a clasificar diferentes objetos,
+por ejemplo un ejemplo tipico seria una clase Vehiculo dentro de esta clase irian los objetos (diferentes tipos)
+que seria por ejemplo coche moto camion, avion.. ...
+
+b)
+Los atributos serian los atributos de estos objetos(adjetivos), como una definicion , por ejemplo seria 
+la descripcion de estos, altura, motor, color, potencia, precio, marca etc...
+y los metodos por ultimo seria lo que puede hacer, volar, arrancar, girar, serian las acciones o verbos.
+
+c)
+modificadors :
+< menor  > mayor => igual o mayor <=menor o igual  !< no es menor !>no es mayor  != no es igual 
+
+
+d)
+
+e)
+La herencia de clases sirve para no hacer las clases muy grandes, asi una clase puede usar propiedades heredadas de una clase, siendo el codigo mas abierto y modificando pequeñas partes sin afectar a las otras.
+
+
+

@@ -1,0 +1,87 @@
+Escriu un programa que, donada una alçada i un pes, ens torni el seu índex de
+massa corporal(IMC).L’IMC es calcula dividint el pes(en kg) entre el quadrat de
+l’alçada(en metres). Hem de mostrar a més, el quin rang d’IMC estem:
+
+Rang Valor          IMC
+Sota pes normal     Menys de 18.5
+Normal              18.5-24.9
+Sobrepès            25-29.9
+Obesitat            Més de 30.0
+
+
+
+
+
+creacio de una clase  IMC 
+
+clase imc
+ 
+Entrada de les variables que son dos atrributs del objecte
+ 
+$altura;
+$pes;
+
+Formula per obtenir el index de masa corporal 
+
+formula : $pes / ($atura * $altura) 
+
+entrada de los datos 
+si el resultado de la formula es ... < o > o = o... imprime... 
+se puede hacer con if else , o con un switch
+
+
+if < 18.5   echo sota el pes 
+elseif >18.5 & < 24.9  echo Normal
+elseif >25 & 29.9   echo sobrepes
+elseif > 30     echo  Obesitat
+
+
+
+
+
+b) Fes un programa que, donat un nombre enter positiu, retorni la suma dels seus
+digits.
+Per exemple, donat 16, ha de tornar 7, i, donat 532 hauria de tornar 10.
+
+Entrada de un numero positiu 
+entrada de un numero que el contem el numero digits
+partim aquest numero en digits
+sumem cada un d aquest numeros 
+
+
+3)
+
+clase Formacions
+extendre clase Fonaments de Formacions
+----formacio amb nom y descripcio (atributs)
+
+extendre clase especialitzacions mentoritzades de Formacions
+----formacio amb nom y descripcio (atributs)
+
+extendre clase projecte de Formacions
+----formacio amb nom y descripcio (atributs)
+
+extendre clase cerca de feina de Formacions
+----formacio amb nom y descripcio (atributs)
+
+formacio amb nom y descripcio (atributs)
+
+especialitzacio : com a clases que extendran clase especialitzacions mentoritzades
+
+Front-end [ 5 springs(nom del spring y duracio com atributs)]
+Backend [ 5 springs(nom del spring y duracio com atributs)]
+Fullstack [ 5 springs(nom del spring y duracio com atributs)]
+DataScience [ 5 springs(nom del spring y duracio com atributs)]
+
+
+
+
+
+
+4)
+
+
+Un bucle amb for per que imprimeixi a cada pasada un # fins arribar al numero de la variable , despres invertirlo.
+
+  = $numero
+
